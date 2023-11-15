@@ -1,0 +1,348 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_MotorEquipment
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAA3cHwYOqFKw4a8sal3pv5Un47mu+aTun/YTkO2ent+2qEF1Cxj5rSMInBpTkiuovvrUg6L9ebfO2tk0vByw/V0cxEi6cXIyYVymmMEWboa9igPghGyLUsV35zBzTLzQeKprXL9ASn7vlrY7vmlBQWQaMD49KZj/rNahduk0ZQmIUnzVQ0s44eQaZYeZo9+OzypXaK/TeP1giCFrUXSrKcYqui64+4nxlyX0fsjHcB9RtrJcsVmdxJGqNty8rJJP8RW36EGQm1Rt0bVNQJmXFDPoNys4ISPYxmoA4FNNaNetrA55H27bBqGZruVDfeLy0IWMsNllshEc/o2mCeUHfmeg0Vleyr1dSecSA0bWL3PDLG6EekL5TbM/Utw/u0ULCdKZGJU0Sy5poGCZrTWtaMejDjljBPpDWwFURvV9B1FPbia00NK3pzDQZjIYU+gQxS/r/r2bs4GxJYG+HZCXqwLsPCso1z7n/MttaRI2wurDb+Ijxbx8DxLiaDMkXO3FQWN2WXaHw53n9JWapIbtUUckUOcgwiNnPg6WJfv+vqDPqwlje+NGfMItLK7Zk1YyVgp/lbYH6/GPtNAizpMXPTNOYLMyK/ipwuBTAYxnZrbTAO1u34GIaAfAS5Ny14/vQyAx/IKLtt0XOFnxD2ebYi8bSztz5k9tedjOh6fkfYhtUHHJqKuW1fJTdMcUVonPZ50ccJjNEY6JTI4CwGzxpBfuB3AnwZ8lCQkCaLuQK5QLYMivXKBzEk0I1LcwGs7CCDU8ezQsqXH/ev2Pqn0y9Iw+yN0XXYfZ69Bcn2yt6AkWpkyvFCse4LRGuTOebQXKZiN2EEd40ort6HOCqBcVbRkxQ8U774wI6pfx2Mr42VBp0SOSPv/o7oN7p1qLKnphXZmWek4diHwbdTZEDHr/7efeLCxUIZRnzre9vrMZlk6vAf6Royv2bUZ9j3+Q/Q3BqemrV+JhN3ESxXQzx+ywhQyaCEztlrIF8u7etXpecgat5C+NT8V4KRrxTlYkpKBzsbJExh81WoYxLm8E9mSpkkB8/xkENOZs5UeO0i2XTU9+DOpy7dzntTqoadDlQ1BXp1ajtRBewKwnbDwJpVWaDxIHcCwmNOLkS6ihhZCo0Q1raG2gdxVUxDSSYGXzvMtF+bfhuPgLRKnxdEBMHCHfoy8G6RvZOkn88PN6ABj8T4soBQupvxUxckwRJK5PVX+y8yM1C5kG0LFktQgF0YsR/nwDQBs5fDwibXm13HPRqr4vKIlHthqGiPkak3B8mbl1g4OBcCji3ptB26VARo6am9lKOOCevKV1kikyqO5GJauJr0yAdtb3n3MiGkAgaft7+Ji4YAQbBk2NVKFiGTxmHFDdo0XXSOcvv92FxaqINU8wP+q+WbxEeLDayK9SykbOiFh+Bc62C18Axnb19O0baIwq0+CLCpzMfdv21LmGkqCs2AXUm7Qi7VC7OpDLiVUAEcquzmJqy26XVUdmY0qo93bNXImo93ixc6lh+FD6J9SgZT5w1IZdocXP/a9+Ffqw/eCRU/ErAgWfv8V72XybbShANeseGMWfXKcWC6XqjwnmtXYYG0bur/ufvvtP9zXELd2ld7uE8/skkJzdDU41pDVnyI51YXz9MX4nzg43pVFDa3rFUZkewq+JFEgp5eBnrhsQJklGKr4y8r/2X9ZaO2Om/nWIirZMDmDr4fkUbd4s5SDmgDqIXQ/VHey8NQGAbdLab0+zyJv3iNv3scVTSnirwQFbsivNa5NQme3H+nU8KMHfYu7ku9j8Rofxc2jICRJ1tvtxwKBOk9hE9M5dFSrRR+BFXpD5v8jvpXC6+F8X9pq5sb8H7cHv8gB/aGte+03nCfrxonK/JqweiRL6KONoD/o6mVz+ooL6jjqF4q3swmFXEEn3fBY38Y3XiMqI+UKW6Hip/mvzqIw4WvGrzB3FR8nH8TRo5tD5ogI2V9XnYO1bmNSSF1skUR9Y6QD
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 11402831683969900949
+    type : 2
+    generation_name : WW_Ambiance.wdl
+    version : {}
+    index_page_generation_name : Accueil
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4372396700020ceb
+  elements :
+   -
+     name : PAGEMOD_Simple_large
+     identifier : 0x43731b53000a91d5
+     internal_properties : CAAAAAgAAADoZtDM+6AIE9/BizM7AI6QbgE9vXKlX61cT/Rr8h5+SuYkjYRxlzyffKMdmxvVrSPtdQ==
+     physical_name : .\PAGEMOD_Simple_large.wwt
+     type : 65541
+   -
+     name : Accueil
+     identifier : 0x437619e900180c1e
+     internal_properties : CAAAAAgAAAAIy4Mq+T2nfPoew1x8xITPrhF1MnsujYmgNVP6bcbzoBawgKpZ0jfT0h6TPuiTj6TaUpBOsCfY0YbUeh+P0JdMEpxWuEo=
+     physical_name : .\Accueil.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : Details
+     identifier : 0x45fa8a18004dc08f
+     internal_properties : CAAAAAgAAAAgM1sSQXXvNALWi+T0TAxHdsmdqpO2IcCy/0TRjhCrt7CVS4Ov5oLDDugpqDoDJzxy6jgW+J9QSQ4swtdHCN8UWmSu0CI=
+     physical_name : .\Details.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : REQ_ListeProduitsAvecPhoto
+     identifier : 0x45fa8195004b7f89
+     internal_properties : CAAAAAgAAAD2XN7C4V7W2eMO7a2dC5hMiimxKS/Qyw9Op8b7AYSQWJBCS6SqXveWxHljXSXbpxnjYw==
+     physical_name : .\REQ_ListeProduitsAvecPhoto.WDR
+     type : 5
+   -
+     name : livraison
+     identifier : 0x46017dcc005c05f6
+     internal_properties : CAAAAAgAAAAFxmYJZhjaXdu/Yr2dZdmsizSAieihSEgHr3OVGlAicjzrI8SXnABIyCHa3UMMFC9Hxx0x08R7cmf1G75u8fQvd3m7wz0=
+     physical_name : .\livraison.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : Identification
+     identifier : 0x46017d27005a8256
+     internal_properties : CAAAAAgAAAC3qNyL4JpE77VhNENve9O2hR5uA2oj6bK/3JstglgHMsQ0ef9a12AYWEGqpxG+mrHJQYdHyc6BeHnHbWzcY3qx+fs1Was=
+     physical_name : .\Identification.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : panier
+     identifier : 0x4601784c00588b79
+     internal_properties : CAAAAAgAAACTVHC3bBbAazHtqMcT76fayXJal173pN/q9V7AXVoLKylcju8mbe+qLrckgzM6Zv21tXNrlTr17O1L4fBY5/41fQfJNc8=
+     physical_name : .\panier.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : panier_paiement
+     identifier : 0x46017e28005e6e49
+     internal_properties : CAAAAAgAAADl5oYphji6ffsfwl19xbnMqxRg6UiBn9fUF3i2N5I1IZkh46Gu4YfMBA3SJZWs9A+np31RsyTb0ofVex6O0ZRPF5lbo10=
+     physical_name : .\panier_paiement.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : creation_adresse
+     identifier : 0x46017f4b0060df34
+     internal_properties : CAAAAAgAAABvcBRTCFIMp71ZPKtnw7vOrRZ2G+KrIfwuzbNdis6HvuLFsoeo7W4k7JWmCVVGEilBOY9PsSbZ0IHfdWTUm0L5oSPtEeM=
+     physical_name : .\creation_adresse.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : paiement_valide
+     identifier : 0x460186ae0062b883
+     internal_properties : CAAAAAgAAAA0N1cWVSmzeMYa9wBQKGgTErUBBm8iMsTFxPg0sQq7NZdPbKad8P6/CySFitaHm7DGRpyyXHMspaqIriOL1ItAZmiq1C4=
+     physical_name : .\paiement_valide.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : paiement_echec
+     identifier : 0x460186ce00643531
+     internal_properties : CAAAAAgAAADXiDzrwPpkz5UB1CMPm/OWZT6Oo4pDaDWxnmL0UbDdxwnuJOt2HYEuohv4eSteulFp4Scn6e6hGNlnjQy8g1qR2dsVeYs=
+     physical_name : .\paiement_echec.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : paiement_differe
+     identifier : 0x460186ec0066ac14
+     internal_properties : CAAAAAgAAACDROCH3KYw+0GdeJejv5fq+WJK506Hgph72KXzNAV8NGqAF796Mwm8fAXCt2ny9g2lpWN7hQrFPD0bMaAIVw7F7fc5Rb8=
+     physical_name : .\paiement_differe.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : paiement_annule
+     identifier : 0x460187000068f9e6
+     internal_properties : CAAAAAgAAAD4byLfb5dypptN/Nikw2iblE7bUgaCTf5utyFhbeeSzEBf+ihtGpHdzlvDgiitbzeyxwjxG6IBImPSTuQE4N9ohxzzgA==
+     physical_name : .\paiement_annule.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : Conditions_generales_de_vente
+     identifier : 0x4602851a01149c7f
+     internal_properties : CAAAAAgAAAC7THivBL4480mVQN/7Rz9CIfrSf8ZvpnquLdC2+FvvfDUXkiAlb4vBcIm22UUSzmUdHevjLaJdVAVT+ZgATxbNlR/RPbc=
+     physical_name : .\Conditions_generales_de_vente.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+  other_elements : []
+  analysis : .\WW_BaseSiteVente.ana\WW_BaseSiteVente.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : WW_PayBox
+     identifier : 0x465c1308008db76c
+     internal_properties : CAAAAAgAAACKrLGjS893/5csM+Zr/YzrY6KdQcMqSmUBd8aRUQAmESXccxQsTZaAKwf+lIqI2XMYzj6Id3CfjdRzWjG0S+8YV8GbYcjGDQ==
+     wdi_physical_name : .\WW_PayBox.wdi
+     wdk_physical_name : .\WW_PayBox.wdk
+     original_name : \\se\ComplementVI\WX25\FR\Encours\Composants\Composants exemples\WB\WW_PayBox\Exe\Composant\WW_PayBox.wdi
+  internal_components :
+   -
+     physical_name : .\CompteVenteEnLigne\CompteVenteEnLigne.wci
+   -
+     physical_name : .\PageEspaceClient\PageEspaceClient.wci
+ common_generation_directory : true
+ wb_skin : 190 Motor
+ wb_color_palette : Race
+ site_type : 3
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WW_Ambiance.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : Accueil
+     parameters : []
+     title :
+      fr-FR : Accueil
+     description :
+      fr-FR : Accueil
+   -
+     name : Conditions_generales_de_vente
+     parameters : []
+     title :
+      fr-FR : Conditions générales de vente
+     description :
+      fr-FR : Conditions générales de vente
+   -
+     name : Details
+     parameters : []
+     title :
+      fr-FR : Détails
+     description :
+      fr-FR : Détails
+   -
+     name : Identification
+     parameters : []
+     title :
+      fr-FR : Identification
+     description :
+      fr-FR : Identification
+   -
+     name : creation_adresse
+     parameters : []
+     title :
+      fr-FR : Création d'une adresse
+     description :
+      fr-FR : Création d'une adresse
+   -
+     name : livraison
+     parameters : []
+     title :
+      fr-FR : livraison
+     description :
+      fr-FR : livraison
+   -
+     name : paiement_annule
+     parameters : []
+     title :
+      fr-FR : paiement_annule
+     description :
+      fr-FR : paiement_annule
+   -
+     name : paiement_differe
+     parameters : []
+     title :
+      fr-FR : paiement_differe
+     description :
+      fr-FR : paiement_differe
+   -
+     name : paiement_echec
+     parameters : []
+     title :
+      fr-FR : paiement_echec
+     description :
+      fr-FR : paiement_echec
+   -
+     name : paiement_valide
+     parameters : []
+     title :
+      fr-FR : paiement_valide
+     description :
+      fr-FR : paiement_valide
+   -
+     name : panier
+     parameters : []
+     title :
+      fr-FR : Visualisation du panier
+     description :
+      fr-FR : Visualisation du panier
+   -
+     name : panier_paiement
+     parameters : []
+     title :
+      fr-FR : panier_paiement
+     description :
+      fr-FR : panier_paiement
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAlOmCXIosIeAhgABmzYnanPCej8dgHsEqlgkl0uESRXy3E7O4y8WvigxYNdluuqTyPQPraBULpOAU8NxPnYvGKHVKdFRK5
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      HCréationSiInexistant("*")
+      // Déclaration d'un contexte AWP
+      ConfigureContexteAWP(ctxDisque, ctxIDCookieURL)
+      
+      // Création/Ouverture de la base de données
+      HCréationSiInexistant("*")
+      
+      // Initialisation du composant interne de gestion de ECommerce
+      COL_ECommerce.InitialiseECommerce()
+      
+      // Initialisation du composant interne de gestion de l'espace client
+      COL_ComptesClient.InitialiseGestionClients()
+      
+      // Dans ce projet on gère 2 décimales sur les prix
+      COL_ECommerce.gnNbDécimales = 2
+      
+      // Déclaration des pages du projets appelées depuis la partie "site de vente"
+      // Il n'y a que des URLS
+      COL_ECommerce.gsURLRetourBoutique = PageAdresse(Accueil)
+      COL_ECommerce.gsURLPageVisuProduit = PageAdresse(Details)
+      COL_ECommerce.gsURLPagePanier = PageAdresse(panier)
+      COL_ECommerce.gsURLPagePanierPaiement = PageAdresse(panier_paiement)
+      COL_ECommerce.gsURLPagePanierAdresse = PageAdresse(livraison)
+      COL_ECommerce.gsURLPagePanierIdentification = PageAdresse(Identification)
+      COL_ECommerce.gsURLPagePanierSansAdresse = PageAdresse(creation_adresse)
+      COL_ECommerce.gsURLCGV = PageAdresse(Conditions_generales_de_vente)
+      
+      
+      //COL_ECommerce.gsURLPagePanierSansAdresse = PageAdresse(creation_adresse)
+      
+      COL_ECommerce.gsURLPagePaiementOk = PageAdresse(paiement_valide,paCOMPLETE)
+      COL_ECommerce.gsURLPagePaiementEchec = PageAdresse(paiement_echec,paCOMPLETE)
+      COL_ECommerce.gsURLPagePaiementDifféré = PageAdresse(paiement_differe,paCOMPLETE)
+      COL_ECommerce.gsURLPagePaiementAbandon = PageAdresse(paiement_annule,paCOMPLETE)
+      
+      LOCAL
+      	bRésultat est un booléen
+      	sListePagesRetours est une chaine
+      	
+      	(bRésultat, sListePagesRetours) = VérifiePagesSiteVente()
+      	si bRésultat = faux ALORS
+      		erreur("Certaines variables contenant les pages ne sont pas remplies",remplace(sListePagesRetours,";",rc))
+      	FIN
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196626
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4372396700030d48
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Ambiance
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : WW_PayBox
+    explorer_type : custom_folder
+    children :
+     -
+       name : PayboxInterne.PayboxPaiement
+       explorer_type : element
+       type : 4
+     -
+       name : PayboxInterne.PayboxAbonnement
+       explorer_type : element
+       type : 4
+     -
+       name : PayboxInterne.PayboxInfoCB
+       explorer_type : element
+       type : 4
+     -
+       name : PAYBOX
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
